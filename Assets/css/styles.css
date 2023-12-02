@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+#titulo {
+    font-size: 500;
+}
+#fondo-header {
+    background-image: url("../img/bgimg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: bottom;
+    height: 30rem;
+}
+.nav-link:hover {
+    color: rgb(18, 185, 185) !important;
+}
+#nombrepersonal{
+    color: rgb(18, 185, 185);
+}
+header {
+    width: 100%;
+}
+h1{
+    letter-spacing: 5px;
+}
+#textoceleste{
+    color: rgb(18, 185, 185);
+}
+
+#img-acercademi img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+h3{
+    color:  rgb(18, 185, 185);
+}
+#parrafo-demi {
+    width: 37rem;
+}
+.link-cv {
+    text-decoration: none;
+    color: rgb(18, 185, 185);
+}
